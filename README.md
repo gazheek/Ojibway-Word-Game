@@ -1,4 +1,15 @@
-# Any-Language Wordle Clone
+# Ojibwe Word Game
+Aaniin!
+
+This is a fork of Aidan Pine's([@roedoejet](https://github.com/roedoejet)) [AnyLanguage-Wordle](https://github.com/roedoejet/AnyLanguage-Wordle). The word list was generated from [The Ojibwe People's Dictionary](https://ojibwe.lib.umn.edu/).
+
+This game is just meant as a means to keep people thinking and talking about the ojibwe language.
+
+The site was developed in Treaty 1 so apologies for differences in spelling.
+
+Miigwech!
+
+## Any-Language Wordle Clone
 
 ## Changes in this fork
 

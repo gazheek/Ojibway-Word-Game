@@ -1,7 +1,7 @@
 {
-    "name": "any-language-wordle",
+    "name": "ojibwe-word-game",
     "version": "0.1.0",
-    "homepage": "https://roedoejet.github.io/AnyLanguage-Wordle",
+    "homepage": "https://gazheek.github.io/Ojibwe-Word-Game/",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
