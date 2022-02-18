@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ojibwe-Word-Game/static/css/main.2857f8b7.css",
-    "main.js": "/Ojibwe-Word-Game/static/js/main.62e727e1.js",
+    "main.js": "/Ojibwe-Word-Game/static/js/main.dff76108.js",
     "static/js/787.691a6135.chunk.js": "/Ojibwe-Word-Game/static/js/787.691a6135.chunk.js",
     "static/media/BCSans-Bold.woff": "/Ojibwe-Word-Game/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Ojibwe-Word-Game/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Ojibwe-Word-Game/index.html",
     "static/media/getFetch.cjs": "/Ojibwe-Word-Game/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.2857f8b7.css.map": "/Ojibwe-Word-Game/static/css/main.2857f8b7.css.map",
-    "main.62e727e1.js.map": "/Ojibwe-Word-Game/static/js/main.62e727e1.js.map",
+    "main.dff76108.js.map": "/Ojibwe-Word-Game/static/js/main.dff76108.js.map",
     "787.691a6135.chunk.js.map": "/Ojibwe-Word-Game/static/js/787.691a6135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2857f8b7.css",
-    "static/js/main.62e727e1.js"
+    "static/js/main.dff76108.js"
   ]
 }
